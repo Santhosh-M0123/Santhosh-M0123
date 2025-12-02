@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh M</h1>
-<h3 align="center">Engineering @ Subscribili | Founder @ Arivix</h3>
+<h3 align="center">Software Engineer AIOPS @ Solarwinds | Founder @ Arivix</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/santhosh-m-" target="_blank">
     <img src="https://api.iconify.design/mdi:linkedin.svg?color=%230077B5" width="40" height="40"/>
